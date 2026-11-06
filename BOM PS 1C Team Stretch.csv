@@ -1,0 +1,30 @@
+S.No,Reference Designator ,Qty,Value,Rate,Price,Link
+1,"C1,C2,C3,C4,C9,C17",6,100n,,,
+2,"C5,C6",2,10n,,,
+3,"C7,C8,C12,C13,C14,C15",6,1u,,,
+4,"C10,C11",2,22u,197.8,395.6,
+5,C16,1,40u,1259.22,1259.22,https://www.mouser.in/en/ProductDetail/KEMET/C4AQIBW5400M3OJ?qs=sGAEpiMZZMsh%252B1woXyUXj7hTFrnMyX90dyu%252BRy%2FqJHU%3D
+6,D1,1,LED,,,
+7,"D2,D3",2,D,,,
+8,FB1,1,FerriteBead,,,
+9,GateSupply1,1,Conn_01x02_Pin,,,
+10,J1,1,USB_B_Micro,,,
+11,J2,1,Conn_01x04_Pin,,,
+12,J3,1,DC,,,
+13,J4,1,AC,,,
+14,L1,1,0.5m,1350,1350,
+15,"Q1,Q2,Q3,Q4",4,C3M0065090D,"1,663.85",6655.4,https://in.element14.com/wolfspeed/c3m0065090d/mosfet-n-ch-900v-36a-to-247/dp/2630832
+16,"R1,R9",1,10k,,,
+17,R2,1,1.5k,,,
+18,R3,1,500,,,
+19,"R4,R5,R6,R7",4,10,,,
+20,R8,1,2M,,,
+21,SW1,1,SW_SPDT,,,
+22,U1,1,STM32F334R8Tx,782,782,https://in.element14.com/stmicroelectronics/stm32f334r8t6/mcu-32bit-cortex-m4-72mhz-lqfp/dp/2469574
+23,U2,1,AMS1117-3.3,39,39,https://robu.in/product/ams1117-3-3-advanced-monolithic-systems-3-3v-1a-fixed-output-ldo-linear-voltage-regulator-4-pin-sot-223/?gad_source=1&gad_campaignid=21658520538&gbraid=0AAAAADvLFWfIn2a1tpqy25pMrZaTZVM3r&gclid=Cj0KCQjwrvHWBhDKARIsABmp7h2L8iBTLbUiL8vpT28C3BNh1ZSgG_3ln5U3TLnPI34bo6qu8AissdAaAshvEALw_wcB
+24,"U3,U4",2,IR2113,135,270,https://robu.in/product/ir2113-high-and-low-side-driver-ic-dip-14-package/
+25,U5,1,AMC1350DWV,1483.74,1483.74,https://www.mouser.in/en/ProductDetail/Texas-Instruments/AMC1350DWV?qs=doiCPypUmgGz1DDV%252BAGIPg%3D%3D&srsltid=AYCX9vJ5aVw0FB8v9xcnqe1TmE2U0tFKRdfQYnqYCovLY3AuMvukCt8W
+26,Filter Capacitor,1,C4AQIBW5400M3OJ,1259.22,1259.22,https://www.mouser.in/en/ProductDetail/KEMET/C4AQIBW5400M3OJ?qs=sGAEpiMZZMsh%252B1woXyUXj7hTFrnMyX90dyu%252BRy%2FqJHU%3D
+27,Heatsinks,4,HSE-B254-04H,143.33,573.32,https://www.digikey.in/en/products/detail/same-sky-formerly-cui-devices-/HSE-B254-04H/7319796
+28,PCB Manufacturing,,,,,
+,,,,Total,14067.5,
